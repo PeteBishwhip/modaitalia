@@ -1,0 +1,11 @@
+{
+    "mcpServers": {
+        "laravel-boost": {
+            "command": "/Users/pete/Library/Application Support/Herd/bin/php84",
+            "args": [
+                "/Users/pete/Code/modaitalia/artisan",
+                "boost:mcp"
+            ]
+        }
+    }
+}
